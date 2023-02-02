@@ -1,0 +1,6 @@
+*.css
+*.svg
+*.eslintcache
+node_modules
+build
+public
